@@ -1,7 +1,7 @@
 # Proptech - Housing Rental Analysis for San Francisco
 
 
-A Jupyter notebook that contains your analysis of the housing rental market data for San Francisco. The analysis completed with professionally styled and formatted interactive visualizations.
+A Jupyter notebook that contains analysis of the housing rental market data for San Francisco. The analysis completed with professionally styled and formatted interactive visualizations.
 
 ## Technologies
 The application is written in Python 3.9.7 and uses the following libraries:
