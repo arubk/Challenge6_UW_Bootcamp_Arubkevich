@@ -15,7 +15,6 @@ The application runs from the command line on Windows, Linux or Mac OS systems, 
 ## Installation Guide
 Download the repository code through GitHub and unpack the archive. Run the following commands to install all the dependencies:
 
-???
 PLease refer to Jupyter Notebook installation guide: https://jupyter.org/install.
 
 ## Usage
